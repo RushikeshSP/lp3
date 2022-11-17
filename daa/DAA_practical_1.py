@@ -26,6 +26,6 @@ def iterFibonacci(n):
     return res
         
 print(iterFibonacci(9)) # O(n)
-print(recFibonacci(9))  # O(n^2)
+print(recFibonacci(9))  # O(2^n)
 
 
